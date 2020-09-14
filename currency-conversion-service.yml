@@ -1,5 +1,0 @@
-server:
-  port: 8100
-messages:
-  welcome: Hello world
-  goodbye: Bye world
